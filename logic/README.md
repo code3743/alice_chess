@@ -1,0 +1,1 @@
+implementaciones de minimax fallidas 
